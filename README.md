@@ -1,3 +1,20 @@
+# React Practical 05
+
+## Developed Using
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+## Description
+This project demonstrates the basic implementation of a React.js application.
+
+## Student Details
+Name: Soniya Rani Das
+Enrollment No: ADTU/0/2024-27/BCAM/011
+Semester: BCA 5th Semester
+Section: A
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
